@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shakirbhati 
-- 👀 I’m interested in learning in codes of various languages
+- 👀 I’m interested in learning codes of various languages
 - 🌱 I’m currently learning at pixelt software
 - 💞️ I’m looking to collaborate on React native mobile app
 - 📫 How to reach me ..+919057730857
