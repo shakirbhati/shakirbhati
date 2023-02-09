@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shakirbhati 
 - 👀 I’m interested in learning codes of various languages
-- 🌱 I’m currently learning at pixelt software
+- 🌱 I’m currently Working at Liveclicks Technology Pvt Ltd.
 - 💞️ I’m looking to collaborate on React native mobile app
 - 📫 How to reach me ..+919057730857
 
